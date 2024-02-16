@@ -1,2 +1,5 @@
 # yolov8
-yolov8 colab notebook
+Train yolov8 model
+
+Dataset:
+https://universe.roboflow.com/uosmxcirg-ddicd/dronedetection-9ep5q
